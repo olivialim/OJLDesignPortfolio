@@ -1,0 +1,22 @@
+.logoCustomSize {
+  height: 10% !important;
+  width: 10%;
+}
+
+.formatHeader {
+  margin-top: 15px;
+}
+
+./*backgroundColor {
+  color:;
+}*/
+
+.navbarText{
+  color:black;
+}
+
+.center {
+    margin: auto;
+    width: 70%;
+    /*padding: 10px;*/
+}
